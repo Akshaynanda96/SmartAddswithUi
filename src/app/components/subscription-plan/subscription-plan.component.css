@@ -1,0 +1,35 @@
+.subscription-plans-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.subscription-plan {
+  width: 300px;
+  text-align: center;
+}
+
+.price {
+  font-size: 2em;
+  margin: 0;
+}
+
+
+p{
+  color: #c5cbd3;
+}
+samp{
+  color: #5f99f7;
+  font-weight: bold;
+  font-family: Calibri, sans-serif;
+}
+
+h6{
+  font-size: 15px;
+  font-family: Calibri, serif;
+}
+#skip{
+  color: #5f99f7;
+  font-weight: bolder;
+  font-family: Calibri, sans-serif;
+}

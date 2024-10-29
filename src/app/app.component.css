@@ -1,0 +1,52 @@
+.mat-stepper-horizontal {
+  margin-top: 2px;
+
+}
+
+.mat-mdc-form-field {
+  margin-top: 6px;
+}
+.custom-stepper {
+  background-color: white;
+  color: black;
+}
+mat-horizontal-stepper {
+  background-color: white;
+  color: black;
+}
+
+.h5{
+  font-size: 25px;
+}
+
+.button-steppers{
+  display: flex;
+  background-color: darkblue;
+  width: 80px;
+  text-align: center;
+  border-radius: 10px;
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  margin-left: 30px;
+}
+
+/* styles.css or your component's CSS file */
+.mat-horizontal-stepper-header {
+  height: 60px ;
+  width: 40%;
+  /* Adjust the height of the step header */
+}
+
+.mat-step-icon {
+  font-size: 24px; /* Change the size of the step icon */
+
+}
+
+.mat-horizontal-stepper-header .mat-step-label {
+  font-size: 14px;
+  width: 60%;
+}
+
+
+
